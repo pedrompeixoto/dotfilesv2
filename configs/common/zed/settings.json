@@ -1,4 +1,13 @@
 {
+    "tab_bar": {
+        "show": false
+    },
+    "tabs": {
+        "git_status": false
+    },
+    "preview_tabs": {
+        "enabled": true
+    },
     "project_panel": {
         "dock": "left"
     },
