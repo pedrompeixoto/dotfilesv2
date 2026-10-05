@@ -1,4 +1,20 @@
 {
+    "agent": {
+        "favorite_models": [],
+        "model_parameters": [],
+        "terminal_init_command": "claude"
+    },
+    "agent_servers": {
+        "claude-acp": {
+            "default_config_options": {
+                "effort": "high"
+            },
+            "type": "registry"
+        }
+    },
     "vim_mode": true,
-    "tab_size": 4
+    "tab_size": 4,
+    "theme":"Tokyo Night",
+    "buffer_font_size": 16,
+    "ui_font_size": 16
 }
