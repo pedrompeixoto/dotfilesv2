@@ -1,4 +1,8 @@
 {
+    "project_panel": {
+        "dock": "left"
+    },
+    "window_title_format": "${projectName}${separator}${fileName}",
     "agent": {
         "favorite_models": [],
         "model_parameters": [],
